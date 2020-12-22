@@ -1,0 +1,152 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #00000073;
+	background: url(photo/bg8.jpg);
+ 
+}
+
+nav{
+	height: 12vh;
+	width: 100% auto;
+	font-weight: 700;
+	font-size: 25px;
+	border-bottom: 1px solid white;
+	background: #ff7f50d9;
+}
+a{
+	position: relative;
+	left: 55%;
+	top: 24px;
+	text-decoration: none;
+	padding: 8px;
+	color: white;
+}
+a:hover{
+	color: #ffffff8c;
+}
+
+nav img{
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	top: -10vh;
+	left: 10vh;
+}
+
+.art{
+	position: absolute;
+	left: 55%;
+	top: 50px;
+	height: 65vh;
+}
+
+h2{
+	padding: 10px;
+	font-weight: 800;
+	font-size: 90px;
+	position: absolute;
+	left: 13%;
+	text-align: center;
+	color: white;
+}
+span{
+	color: #FF5722;
+	font-size: 49px;
+	position: absolute;
+	left: 17%;
+	padding-top: 10px;	
+}
+p{
+	font-weight: 500;
+	font-size: 20px;
+	position: absolute;
+	top: 55vh;
+	left: 20vh;
+	text-align: center;
+	color: white;
+}
+
+button{
+	position: absolute;
+	top: 70vh;
+	padding: 10px;
+	width: 25vh;
+	border-radius: 30px;		
+	background: #0000ff75;
+	border: none;
+	color: white;
+	font-family: sans-serif;
+	font-weight: 900;
+}
+
+button:hover{
+	background: white;
+	color: black;
+}
+.btn1{
+	left: 47vh;
+	background: #ff5722cc;
+}
+
+.btn2{
+	left: 120vh;
+	top: 75vh;
+	background: #673ab7d9;
+}
+
+.btn3{
+	left: 150vh;
+	top: 75vh;
+}
+
+.btn4{
+	left: 17vh;
+	top: 22vh;
+	background: none;
+	color: transparent;
+}
+
+
+
+.h2c{
+	position: absolute;
+	left: 35%;
+	top: 80vh;
+}
+
+.coursebox{
+	height: 60vh;
+	width: 60vh;
+	position: absolute;
+	left: 30vh;
+	top: 120vh;
+}
+
+.coursebox img{
+	border-radius: 20px;
+	width: 60vh;
+	box-shadow: 1px 2px 20px 0px;
+}
+.coursebox img:hover{
+	opacity: .2;
+	border: 1px solid white;
+}
+
+.coursebox2{
+	position: absolute;
+	left: 80vh;
+	top: 0vh;
+}
+
+.coursebox3{
+	position: absolute;
+	left: 	-80vh;
+	top: 60vh;
+}
+
+.coursebox4{
+	position: absolute;
+	left: 	80vh;
+	top: 0vh;
+}
